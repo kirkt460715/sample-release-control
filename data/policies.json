@@ -1,0 +1,34 @@
+[
+  {
+    "channel": "馆店",
+    "defect": "关键",
+    "max_upper": 0.14,
+    "alpha": 0.1,
+    "review_times": 2,
+    "max_units": 105
+  },
+  {
+    "channel": "馆店",
+    "defect": "普通",
+    "max_upper": 0.3,
+    "alpha": 0.1,
+    "review_times": 2,
+    "max_units": 105
+  },
+  {
+    "channel": "合作展销",
+    "defect": "关键",
+    "max_upper": 0.09,
+    "alpha": 0.05,
+    "review_times": 2,
+    "max_units": 115
+  },
+  {
+    "channel": "合作展销",
+    "defect": "普通",
+    "max_upper": 0.32,
+    "alpha": 0.05,
+    "review_times": 2,
+    "max_units": 115
+  }
+]

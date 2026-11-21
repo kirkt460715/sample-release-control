@@ -1,0 +1,23 @@
+[
+  {
+    "ack": "ACK7",
+    "request": "Q1",
+    "carton": "C20",
+    "actual_units": 55,
+    "happened": "2026-08-16T08:00:00+08:00"
+  },
+  {
+    "ack": "ACK9",
+    "request": "Q1",
+    "carton": "C22",
+    "actual_units": 34,
+    "happened": "2026-08-17T08:00:00+08:00"
+  },
+  {
+    "ack": "ACK10",
+    "request": "Q2",
+    "carton": "C24",
+    "actual_units": null,
+    "happened": "2026-08-17T09:00:00+08:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "lot": "L-blue",
+    "process": "paint-a",
+    "qty": 164,
+    "made": "2026-08-05"
+  },
+  {
+    "lot": "L-tea",
+    "process": "paint-a",
+    "qty": 110,
+    "made": "2026-08-06"
+  },
+  {
+    "lot": "L-new",
+    "process": "paint-b",
+    "qty": 90,
+    "made": "2026-08-10"
+  },
+  {
+    "lot": "L-edge",
+    "process": "paint-b",
+    "qty": 120,
+    "made": "2026-08-09"
+  }
+]
